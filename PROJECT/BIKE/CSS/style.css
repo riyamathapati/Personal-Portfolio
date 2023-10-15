@@ -1,0 +1,88 @@
+
+:root{
+    --bs-black:#191414
+    --bs-gray:#2F2E2E
+}
+#topnav{
+    
+    background-color: #09A0F7!important;
+}
+#navbutton{
+    background-color:#FD8A20 !important;
+}
+#hero{
+    position: relative;
+    }
+#forform{
+    font-family: 'Kanit', sans-serif;
+ }   
+ #hero{
+    height: 100vh;
+    padding: 200px 0px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../IMAGES/BACKGROUND/motorcycles-2021-08-26-15-36-39-utc-1\ \(1\).jpg);
+    background-repeat: no-repeat;
+     background-position: center;
+      background-size: cover;
+     }
+ #forbackground{
+    height: 50vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0 ,0 ,0 , 0.8),rgba(0,0,0,0.8)),url(../IMAGES/BACKGROUND/feeling-the-freedom-close-up-of-young-man-sitting-2021-09-01-09-57-19-utc-min.jpg);
+    background-repeat: no-repeat;
+     background-position: center; 
+     background-size:cover;
+
+ }
+ @media only screen and (min-width:992px){
+    #forform{
+        margin-top: -100px;
+        position: relative;
+        z-index: 99;
+    }
+    #forcardonimg,#forcardonimg1,#forcardonimg2{
+        margin-top: -30px;
+        position: relative;
+        z-index: 100;
+    }
+ }
+ .bi-award-fill,.bi-cash-coin,.bi-people-fill,.bi-fuel-pump-diesel-fill{
+    font-size: 50px;
+    color: #09A0F7;
+ }
+ @media only screen and (min-width:320px){
+    #forcardonimg,#forcardonimg1,#forcardonimg2{
+        margin-top: -30px;
+        position: relative;
+        z-index: 99;
+    }
+
+ }
+ #formwithbg{
+     background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0 ,0 ,0 , 0.7),rgba(0,0,0,0.7)),url(../IMAGES/BACKGROUND/beautiful-woman-with-sunglasses-driving-on-motorbi-2021-08-26-15-55-04-utc.jpg);
+    background-repeat: no-repeat;
+     background-position:center; 
+     background-size:cover;
+     background-attachment:fixed;
+     }
+ #last{
+
+    background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0 ,0 ,0 , 0.9),rgba(0,0,0,0.8)),url(../IMAGES/BACKGROUND/beautiful-woman-with-sunglasses-driving-on-motorbi-2021-08-26-15-55-04-utc.jpg);
+    background-repeat: no-repeat;
+     background-position: center; 
+     background-size:cover;
+}
+ .forfont{
+    font-family: 'Anton', sans-serif;
+}
+ .bi-headset{
+    font-size: 40px;
+    color:  #09A0F7;
+}
+ .forcolor{
+    color: #09A0F7;
+ }
+.bg-primary{
+    background-color: #09A0F7!important;
+}
+.bi-search{
+    font-size: 30px;
+    }

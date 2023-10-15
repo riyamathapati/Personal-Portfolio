@@ -1,0 +1,99 @@
+
+.navbar-nav:hover{
+   color:  #E0C14E!important;
+}
+#introofartist{
+    background-image: url(../IMAGES/BACKGROUND/bg1.jpg);
+    background-position: center;
+    
+    background-size: cover;
+}
+#forcircle li{
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid;
+    border-radius: 40px;
+    line-height: 39px;
+}
+
+.bi-facebook {
+color: #3b5998;
+}
+.bi-google {
+    color: #de4e43;
+}
+.bi-linkedin {
+    color: #007bb6;
+}
+.bi-instagram{
+    color: #8a5a4e;
+}
+.bi-twitter {
+    color: #1ea1f3;
+}
+.forcircle{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 40px;
+
+}
+.seprater-1 {
+    height: 1px;
+    width: 200px;
+    margin-left: 550px;
+}
+.seprater-2 {
+    height: 1px;
+    width: 70px;
+    margin-left: 280px;
+}
+.seprater-3 {
+    height: 1px;
+    width: 70px;
+    margin-left: 710px;
+}
+.bg-primary{
+    background-color: #fbce04!important;
+}
+#forbg2{
+    background-color: #f6f3e8;
+
+    
+}
+.seprater-4{
+    height: 1px;
+    width: 170px;
+    margin-left: 200px;
+
+}
+body{
+    color: #6f6f6f;
+}
+#ourserives{
+    background-image: url(../IMAGES/BACKGROUND/bg1.jpg);
+    background-position: center;
+    
+    background-size: cover;
+
+}
+#forcolofont{
+    color:#E0C14E ;
+}
+.card-body{
+
+    background-color: #f6f3e8;
+}
+#testimonials,#forragister{
+
+    background-image: url(../IMAGES/BACKGROUND/bg1.jpg);
+    background-position: center;
+    
+    background-size: cover;
+    background-attachment: fixed;
+}
+.forbuttoncolor{
+background-color: #E0C14E;
+}
+

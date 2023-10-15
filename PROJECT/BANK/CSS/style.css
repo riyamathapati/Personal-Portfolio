@@ -1,0 +1,124 @@
+
+*{
+    /* border: 1px solid red; */
+}
+#hero{
+    background-image: url(../IMAGES/BACKGROUND/home.jpg);
+    background-position:top;
+    background-size: cover;
+    
+}
+#bgimg1{
+    background-image: url(../IMAGES/BACKGROUND/blue-poly-background.jpg);
+    background-position: center;
+    background-size: cover;
+    /* clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 59% 76%, 51% 100%, 36% 75%, 0% 75%); */
+
+}
+#yellowbg{
+    background-image: url(../IMAGES/BACKGROUND/yellowbg.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#rightchoise{
+    background-image: url(../IMAGES/BACKGROUND/rightchoise.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+#img4{
+    background-image: url(../IMAGES/BACKGROUND/yellowbg.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#counter{
+    background-image: url(../IMAGES/BACKGROUND/counter.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#formultiface{
+    background-image: url(../IMAGES/BACKGROUND/multiface.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.forfontcolor,.bi-check-circle,.bi-quote{
+    color: #cddc39;
+}
+.bi-check-circle{
+    font-size: 30px;
+}
+.bgcolor{
+    background-color: #cddc39;
+
+}
+.bgcolor1{
+    background-color:#3E467B ;
+}
+.bgcolor:hover{
+    background-color: #3E467B;
+}
+.bgcolor1:hover{
+    background-color: #cddc39;
+}
+.bgcolor2{
+    background-color:#EBF1B0;
+}
+.bgcolor3{
+    background-color: #3E467B;
+
+}
+.bi-piggy-bank-fill,.bi-cash-coin,.bi-calendar3{
+   
+    font-size: 100px;
+   
+    border-radius: 80%;
+    background-color: #EBE9EA;
+    
+}
+.bi-piggy-bank-fill{
+    color: #EA839B;
+}
+.bi-cash-coin{
+    color: #BADAA9;
+}
+.bi-calendar3{
+    color:#BABABA;}
+.forfontcolor2{
+    color: #3E467B;
+}
+#forcoursal{
+    background-color: #fdfef0;
+
+}
+.forchoisebg{
+    background-color:#F6F6F6;
+
+}
+
+#forform{
+    background-color: #3E467B;
+}
+.bi-quote{
+    font-size: 50px;
+}
+.forspancolor{
+    color: #878787;
+}
+.forspancolor1{
+    color: #cddc39;
+}
+
+.bi-safe,.bi-bar-chart,.bi-rocket-takeoff{
+    
+    font-size: 40px;
+    border-radius: 100%;
+    background-color: #CDDC39;
+    color: white;
+}

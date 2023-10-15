@@ -1,0 +1,92 @@
+/* *{
+    border: 2px solid red;
+} */
+
+
+#navi,#laststart{
+    background-color: #511D00;
+    
+}
+.navi3{
+    background-color:#F8ECD7;
+}
+.forherobgcolor{
+    background-color: #E04E1C;
+}
+.forsilderh2text{
+    font-family: 'Playfair Display', serif;
+}
+#navi2{
+    background-color:#F8ECD7;
+
+}
+.input-group{
+    background-color: #FFFBF2!important;
+}
+.bi-search{
+    background-color: #FFFBF2!important;
+
+}
+.bi-cart,.bi-heart,.bi-person{
+    font-size: 20px;
+}
+.forbg{
+    background-color: #FFFBF2;
+}
+.forcardbg{
+    background-color: #FBEDD7;
+}
+#theweddingedit{
+    margin-top: 50px!important;
+}
+/* .formartop{
+    margin-top: 50px!important;
+} */
+.forborderredius{
+    border-radius: 150px 150px 0px 0px;
+    outline-style: solid;
+    outline-color:#511D00;
+}
+.forborderredius2{
+    border-radius: 100%;
+}
+.forlinkcolor:link{
+
+       color: #E65C1C;
+}
+.forinstacolor{
+    color: #E65C1C;
+}
+.forfonfamily2{
+    font-family: 'Playfair Display', serif;
+}
+.card-cta:link{
+    color: black;
+    font-size: 20px;
+
+}
+#shopformourinsta,#accesaries,#costomersupport{
+    background-color: #FFFBF2;
+}
+#exalpore,#newarrivals,#celebration{
+    background-color: #FFFBF2;
+
+}
+.fed-ex{
+    color: orangered;
+}
+.forspansize{
+    font-size: 18px;
+    font-weight: 500;
+}
+.blue-dart{
+    color: green;
+    font-size: 18px;
+}
+.delhivery{
+    font-size: 18px;
+
+}
+.bi-pinterest,.bi-youtube,.bi-linkedin,.bi-instagram,.bi-twitter,.bi-facebook{
+    color:#E65C1C;
+}

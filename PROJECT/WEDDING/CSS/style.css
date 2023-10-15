@@ -1,0 +1,98 @@
+:root {
+    --red: #dc3545;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+  
+}
+.nav-link:hover{
+    border-bottom:2px solid var(--red) ;
+}
+ul{
+    font-family: sans-serif;
+    }
+
+#ourstory{
+    margin-top: 150px;
+}
+#bgimge{
+    background-image: url();
+}
+#bgimg{
+    background-image: url(../IMAGES/ILLUSTRATION/story2.jpg);   background-size: 100%;background-repeat: no-repeat;
+    }
+#marinfo{
+    background-image: url(../IMAGES/BACKGROUND/section_bg1\ \(1\).png);background-size: 100%;
+    background-repeat: no-repeat;   
+}
+#marinfocontent{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.fa-hand-holding-heart{font-size:50px; color:red;}
+.fa-hotel{font-size:50px ;color:red;}
+.fa-glass-cheers{font-size:50px;color: red;}
+    
+#countdown2{
+    background-image: url(../IMAGES/BACKGROUND/section_bg2\ \(1\).png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.img-area{
+    text-align: center;color: #fff;position: relative;
+}
+.img-area:after{
+    position: absolute; left: 0;width: 100%;
+}
+.img-area:after{
+    content: ''; height: 100%; top: 0;transition: .5s;
+}
+.img-area:hover:after{
+    background: linear-gradient(to bottom,rgba(199,0,57,.01)0,rgba(199,0,57,.25)25%,rgba(199,0,57,.50)50%,rgba(199,0,57,.75)75%,rgba(199,0,57,.95)100%);
+}
+#gift2{
+    background-image: url(../IMAGES/BACKGROUND/section_bg3\ \(1\).png);
+    background-size: cover;
+}
+#gift3{
+    margin-top: 50px;
+}
+#forbackgroundofform{
+    background-image: url(../IMAGES/BACKGROUND/shape2.png);
+    background-size:cover; background-repeat: no-repeat;position: relative;z-index: 0;
+}
+#topimg{
+    position: absolute;top: 30px; left: 20px;z-index: 1;
+}
+#formbg{
+    background-image:url(../IMAGES/BACKGROUND/gft\ \(1\)\ \(2\).jpg);
+    background-size: cover;
+}
+#forragister{
+    background-image: url(../IMAGES/BACKGROUND/gft\ \(1\)\ \(2\).jpg);
+    background-size: cover;background-repeat: no-repeat;
+    background-attachment: fixed;background-position:right;
+}
+/* @media only screen and(min-width:320px) {
+    #forragister{
+        background-position: left;
+    }
+    
+    
+} */
+#lastpart{
+    background-image: url(../IMAGES/BACKGROUND/section_bg4.png); background-repeat: no-repeat; background-size: cover;
+}
+/* .forfont{
+    font-family: 'DM Serif Display', serif;
+} */
+.bi-heart-fill{
+    font-size: 70px;
+    transform: translate(-50%,-50%) scale(1);
+    opacity: 0;
+    color: #fff;
+}
+
+

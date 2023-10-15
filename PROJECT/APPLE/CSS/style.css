@@ -1,0 +1,179 @@
+#navi{
+    background-color: #333333;
+   
+    
+}
+#scrolly,#watchseries9,#afterseries{
+    background-color: #000000;
+}
+#watch_se,#watchaltra,#watchcarbon,#aftercarbon,#afteraltra,.familysetup,.fitness,.forbgcolor{
+    background-color: #F5F5F7;
+    
+    
+}
+
+#navi{
+    font-size: 11px;
+}
+.forimgscroll{
+    width: 55px;
+    height: 55px;
+}
+#shopwatch{
+    background-color: #1D1D1F;
+    color: white;
+}
+.forblack{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #000000;
+}
+.forwhite{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #a9a7a7;
+
+}
+.forskin{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #fcc382;
+}
+.forpink{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #fe93f1;
+
+}
+.forblue{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #8edbfc;
+}
+.forpurple{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #f682fc;
+}
+.foryellow{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #e1f48b;
+
+}
+.forred{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #fd5f4e;
+}
+.forgreen{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #88fd4e;
+
+}
+.fororange{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #fd9a4e;
+}
+.info2img{
+    width: 35px;
+    height: 35px;
+}
+.info3img,.infoimg4{
+    width: 50px;
+    height: 50px;
+
+}
+.colorband{
+    width:100%;
+    height: 50vh;
+    background-image: url(../IMAGES/ILLUSTRAATION/colorband-min.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100vh;
+    position: relative;
+}
+.forposition{
+    /* top: 100px;
+    left: 510px; */
+    position: absolute;
+    top: 50px;
+}
+  
+@media (min-width: 576px){
+    .forposition{
+        top: 50px;
+       
+        left: 115px;
+    }
+
+        
+}
+
+@media (min-width: 768px){
+    .forposition{
+        top: 50px;
+       
+        left: 210px;
+    }
+
+        
+}
+
+@media (min-width: 992px){
+    .forposition{
+        top: 155px;
+       
+        left: 320px;
+    }
+
+        
+}
+
+@media (min-width: 1200px){
+    .forposition{
+       
+       top:150px;
+        left: 420px;
+    }
+
+        
+}
+
+@media (min-width: 1536px){
+    .forposition{
+       
+       top:100px;
+        left: 505px;
+    }
+
+        
+}
+
+
+
+
+.forimformationimg{
+    width: 100px;
+    height: 100px;
+}
+#lastsecond{
+    font-size: 12px;
+    /* line-height: ; */
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+}
